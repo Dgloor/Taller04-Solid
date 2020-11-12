@@ -37,5 +37,4 @@ los principios SOLID.
 <a title="Emanuel Parra" href="https://github.com/eapb99">
 <img src="https://avatars1.githubusercontent.com/u/62962507?s=400&v=4" alt="Emanuel" width="60" style="border-radius: 50%"/>
 </a>
-</div>tps://avatars1.githubusercontent.com/u/62962507?s=400&v=4" alt="Emanuel" width="25" style="border-radius: 50%"/>
-</a>
+</div>
