@@ -10,11 +10,11 @@ los principios SOLID.
 
 ## Responsabilidades
 
-- Single Responsibility Principle -> Gabriela Mora
-- Open/Close Principle -> Johan Gilces
-- Liskov Sustitution Principle -> Danny Loor
-- Interface Segregation Principle -> Joangie Márquez
-- Dependency Inversion Principle -> Emanuel Parra
+- **Single Responsibility Principle:** Gabriela Mora
+- **Open/Close Principle:** Johan Gilces
+- **Liskov Sustitution Principle:** Danny Loor
+- **Interface Segregation Principle:** Joangie Márquez
+- **Dependency Inversion Principle:** Emanuel Parra
 
 ## Colaboradores:
 <div>
